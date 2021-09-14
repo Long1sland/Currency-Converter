@@ -23,7 +23,7 @@ console.log(toCurrency)
    .then((res) => res.json())
    .then(data => {
      setCurrencyOptions([ ...Object.keys(data.rates)])
-     setFromCurrency("NGN")
+     setFromCurrency("GBP")
      setToCurrency("USD")
      setExchangeRate(data.rates["USD"])
  
