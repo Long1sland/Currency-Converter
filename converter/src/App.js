@@ -1,4 +1,5 @@
 // This is to test github so just ignore
+// I'm testing github again so that's what this is 
 import React, {useEffect, useState} from 'react';
 import './App.css';
 import CurrencyRow from './Components/currencyRow';
