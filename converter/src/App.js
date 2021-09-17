@@ -1,6 +1,6 @@
 // This is to test github so just ignore
 // I'm testing github again so that's what this is 
-// you're getting this from git hub
+// this is different
 import React, {useEffect, useState} from 'react';
 import './App.css';
 import CurrencyRow from './Components/currencyRow';
